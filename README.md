@@ -10,6 +10,7 @@ This repository hosts the "TMID: A Comprehensive Real-world Dataset for Trademar
 The dataset comprises three CSV files:
 - `data_with_rt.csv`: Includes reasoning traces.
 - `data.csv`: Same structure as `data_with_rt.csv` but without the reasoning traces column.
+- `law.txt`: A textual file containing a list of Chinese law statutes relevant to trademark infringement. This file provides the legal context necessary for understanding the laws that govern trademark infringement and may be used in conjunction with the dataset to aid in model training or for educational purposes.
 
 ## Data Format
 Each record in the CSV files is composed of the following fields:
