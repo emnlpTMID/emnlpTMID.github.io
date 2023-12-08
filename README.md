@@ -1,6 +1,6 @@
 # TMID: Trademark Infringement Detection Dataset
 
-![Ant Group Logo](https://gw.alipayobjects.com/mdn/rms_27e257/afts/img/A*70AsSL23VKYAAAAAAAAAAAAAARQnAQ)
+![Ant Group Logo](https://gw.alipayobjects.com/mdn/rms_27e257/afts/img/A*TJgCS4M0nnsAAAAAAAAAAAAAARQnAQ)
 ![Monash University Logo](https://www.monash.edu/__data/assets/git_bridge/0006/509343/deploy/mysource_files/monash-logo-mono.svg)
 
 ## Description
