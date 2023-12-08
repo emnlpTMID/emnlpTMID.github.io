@@ -28,7 +28,7 @@ Each record in the CSV files is composed of the following fields:
 ## Example Entry from `data_with_rt.csv`
 ```csv
 target_content,label,registration_name,service_description,slogan,merchant_name,merchant_industry_category,trademark_name,trademark_industry_category,ecommerce_type,reasoning_trace
-得知物流,1,得知物流,,,音手哩品司实挑（中山）有限公司,'交通运输、仓储和邮政业',徳知物流,['邮政业'],快递物流,The text [得知物流] uses a name that is identical or similar to the brand [徳知物流], potentially causing confusion. Considering the text [得知物流], the registration information and the services or goods offered by the brand [徳知物流] belong to the same industry category. The merchant name [音手哩品司实挑（中山）有限公司] is not associated with the brand [徳知物流].
+得知物流,1,得知物流,,,音手哩品司实挑（中山）有限公司,'交通运输、仓储和邮政业',徳知物流,['邮政业'],快递物流,文本[得知物流]使用了与品牌[徳知物流]相同或者相似，或者容易造成混淆的表述。	考虑文本[得知物流]，判断注册信息与品牌[徳知物流]提供的服务或商品所属的行业类目相同。	商户名称[音手哩品司实挑（中山）有限公司]与品牌[徳知物流]无信息关联。
 ```
 
 ## Usage
